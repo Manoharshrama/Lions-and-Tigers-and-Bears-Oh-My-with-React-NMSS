@@ -1,10 +1,24 @@
-##Project Name: Lewis-Tac-Toe is a project that creates a web based tic tac toe game in utilising React App.
+##Project Name: Lions-and-Tigers-and-Bears-Oh-My-NMSS - is a project that creates a web application that dynamically fetches dog breeds from a publicly accessible API
 
 ###Student Name: Naga Manohar Sharma Sankaramanchi
 
 ###Credits & references: 
 
-Majority of the code is derived from the example React Tic-tac-toe from  [Tutorial: Tic-Tac-Toe](https://react.dev/learn/tutorial-tic-tac-toe)
+Majority of the code in this repository is derived from the youtube video titled "Dogs, JavaScript & An API 🐶 Fetch, Promises & Async Await" by Brad Schiff https://www.youtube.com/watch?v=AVmGmLFcukM
+
+
+---
+page_type:  Lions-and-Tigers-and-Bears-Oh-My-NMSS
+framework:
+- react
+languages:
+- html
+- javascript
+- css
+products:
+- azure
+- azure-app-service
+---
 
 # Getting Started with Create React App
 
